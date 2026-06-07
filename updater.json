@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.5",
-  "notes": "Bug fixes and UI updates.",
-  "pub_date": "2026-06-07T10:35:00Z",
+  "version": "v1.4.1",
+  "notes": "v1.4.1: 관리자 전용 갤러리 프리패스 및 캐시 즉시동기화 적용",
+  "pub_date": "2026-06-07T16:01:34.644Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3Y4LzJUK1hXb0EwR3NzVGozMm1uVzA3L01KcUNsZ202eEViNW00bzhjRjViTUZLQi9COTNHenN3Wmg3Y04wNU9Ya2dxUFdaNG1GVDFvSnp1dFAvZ1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODI4NjE2CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuMy41X3g2NC1zZXR1cC5leGUKNGR6TSsydUZIYVBwS3lyWS94cEhEQStvYmJjMlVYNTd5TE9JL0Z0Tkk1ajB4c05kM2dSMWIyRVZYSnFlTUhuTGVxdU9Sb0VuckJkSHZxSmIvMEN3RHc9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.3.5/POE2_AutoFilter_1.3.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2lhemkva3JRdUJlc1BvOUxIQUtoVm5tNGpuR0hoWit2aGRYWGoyRmhwVWRRdVg0R1Q5ZFVSbFc4MWthbFVZdkZXU1BRSWlJUjFHMDlTc1hjSWRGWnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODQ3OTUxCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC4xX3g2NC1zZXR1cC5leGUKdTJPWXBXSklGcndBNWxuQXlBRUZmQ1lwRnJnRy9mU2htVWFCWmV5RzhGbkc0dlMvS04wU0xEQ1BPLzdxc2lBZkVZQTJZUnBnNUp6cVJDcTlYMGRCQUE9PQo=",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.1/POE2_AutoFilter_1.4.1_x64-setup.exe"
     }
   }
 }
