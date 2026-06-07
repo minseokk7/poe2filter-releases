@@ -1,11 +1,11 @@
 {
-  "version": "v1.3.1",
-  "notes": "v1.3.1 Updater Fix Release: 업데이트 캐시 및 다운로드 문제 해결 버전",
-  "pub_date": "2026-06-07T10:13:00Z",
+  "version": "v1.3.2",
+  "notes": "v1.3.2 Silent Updater: 백그라운드 조용 업데이트 적용",
+  "pub_date": "2026-06-07T10:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2dsWDBFcFVPeW1kQ3ZoaWdZVVVDaEQ2ZG54bWQrUTgvTG1ja3dIT2lsTE5mUG1QN3ZjNWVoSHRPelRBaHZKbFI0a3BCRnpKZStNc3hLdVRwWWFwcUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODI3MTU1CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuMy4xX3g2NC1zZXR1cC5leGUKVVo2UlZOYXFhTStrb1V4d1ZBM2lhOVdXdVU5cjkrY0lkQjduZmhaa1dIZ2k0VXFFZkRCaDVnemMrY21xd2E5cXlTWjRWUlAzSmE5RmZudWZCK1FWQnc9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.3.1/POE2_AutoFilter_1.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2loMHIzVUNYdktBMFlsK1N4cWZySldmQlpLcHlQVjVwR3dOQ1p3dlNVSzF3SDVpVHlCWitvVllWUDNHK0NZNTY2ZHVvcGNrbjgwSUdsNklKa21meGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODI3NjA0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuMy4yX3g2NC1zZXR1cC5uc2lzLnppcApMWHg0d0ZTRzJDSHFydFVrMUZNNU5ML1FteWVvY25iMzR0Vlg5TnRBREpmUVhvNUNkdStrUFlXQlIzNXdzTS9rcy9ZUGthb0o0R2JOaXpESDNTMmNDdz09Cg==",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.3.2/POE2_AutoFilter_1.3.2_x64-setup.nsis.zip"
     }
   }
 }
