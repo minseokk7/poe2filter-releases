@@ -4,7 +4,7 @@
   "pub_date": "2026-06-24T14:19:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "untrusted comment: signature from minisign secret key\r\nRUTI2lmvhTBY/nfPcReymlgOjKP6+BJL0zaJEt9dcnLGpjdQ3BPEOQLZZMlV22W5QSs7KJAxfAiOeK9riRzgTCA1Y3LUzqQUcQ8=\r\ntrusted comment: timestamp:1781024079\tfile:POE2_AutoFilter_1.4.6_x64-setup.exe\thashed\r\nt10Z9USFHZ7l+JO3DY9OQ+RbXrA2sMb2kPIyvpfOCfkLTY/eL4jxJA8hoiTdKAtqamq9Bx1vtXjO+oCOU022Bw==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2lQaTUvMXNDeDk0ZnllNzBIK3dpNEduQTg5bWp4ZjA5QjZxaUhpU0l4L2JWeFlwVW85WHJEYllSSnlJZUd3cE1FcjVPcHV0dmJjQTRhSzRFc2U0T1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzExNDI0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC42X3g2NC1zZXR1cC5leGUKaXRpclF4MWtiZk9NN3JBd2wrQjd3dVZqelFERmxWU2s4RFdPZDZKeE45YXUzV253NVlFalBqbGRYTHNRbWdad0tFZ0pNUHlSeDJOYU10dTR4VDl5Q0E9PQo=",
       "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.6/POE2_AutoFilter_1.4.6_x64-setup.exe"
     }
   }
