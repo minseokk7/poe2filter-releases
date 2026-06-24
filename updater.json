@@ -4,8 +4,8 @@
   "pub_date": "2026-06-24T14:19:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2lQaTUvMXNDeDk0ZnllNzBIK3dpNEduQTg5bWp4ZjA5QjZxaUhpU0l4L2JWeFlwVW85WHJEYllSSnlJZUd3cE1FcjVPcHV0dmJjQTRhSzRFc2U0T1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzExNDI0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC42X3g2NC1zZXR1cC5leGUKaXRpclF4MWtiZk9NN3JBd2wrQjd3dVZqelFERmxWU2s4RFdPZDZKeE45YXUzV253NVlFalBqbGRYTHNRbWdad0tFZ0pNUHlSeDJOYU10dTR4VDl5Q0E9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.6/POE2_AutoFilter_1.4.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3VTUENHT0J4bXRzZk1waWZnQ0FMZmRPbktQQUV0RTFIalJqY0tER3FzQTBsSC80ZzJmdHlRK0tNQzdEdjJ2eUlvZk5Za1RwTVJVOCtib1hUT2FhMHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzExNzE4CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC42X3g2NC1zZXR1cC5leGUKQ1JCQ1h2ZXlmTDRxUExBSkZaQktNV0tjRER6NGpza0E5WWRkdWZvRUUrekhwYmpSdnFxZGVmR1VwVTJCWlJVYUZJZnN5MFA5eGtuYnFVckhldzIxQ2c9PQo=",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.6/POE2_AutoFilter_1.4.6_x64-setup.nsis.zip"
     }
   }
 }
