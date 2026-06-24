@@ -1,10 +1,10 @@
 {
   "version": "v1.4.8",
-  "notes": "v1.4.8: 게임 크래시를 유발하는 선호 옵션 강조 버튼(HasExplicitMod) 기능 임시 비활성화 핫픽스",
-  "pub_date": "2026-06-24T15:35:19.204Z",
+  "notes": "v1.4.8: HasExplicitMod 오류 수정 + 인앱 자동 업데이트 서명 파싱 버그 수정",
+  "pub_date": "2026-06-24T15:45:41.065Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JtRjdUV3ozSWFYZVcrZEt0dDNYejhZTkVXNW50U1plNFZ5anIzQlQ0R2d3UlU3V3U5dlN6Qnl6R3lyUkJmQnRPNkIzUXdoREtFbmRtMTRYV1NLRGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzE1MzExCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC44X3g2NC1zZXR1cC5leGUKUDZUYjZtVW1ON1FGUjVFTFVoYUc5WU53WTJsVlVHNFlmL3FuZXVHK1h0L0NaRTdIZlNzaUJ2K0UzTlhwMTlzOWY4NGJjeDlSYVFKS05DRHBEZlpqQmc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL25iSjRJNkE4QTFJNU9OeFJDRWFqVU1XU3NQNVowQzg4YlplMGxaSGJVWHI2cGJaK1dQQmhzSFVOb3g5TzJpMDE0SVRveUEvYjZSOW9BR1NISHpZOGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzE1OTM2CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNC44X3g2NC1zZXR1cC5leGUKZjdCdGNsS2ZrUG9wT3F4TGlldjJDT2lETkIxRHJGaUUybm14bkZENFVPY0tEL0FiVldMcDBwNHpWbVhKV2JTRVIwcjRZUWI0RlBkd0ZDMVdzcGd6REE9PQo=",
       "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.4.8/POE2_AutoFilter_1.4.8_x64-setup.exe"
     }
   }
