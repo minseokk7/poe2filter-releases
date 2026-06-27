@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.16",
-  "notes": "v1.5.16: '숨길 장비 / 보일 장비' 기능에서 프리셋 사용 시 간헐적으로 필터 적용에 실패하는 크래시 버그 긴급 수정",
-  "pub_date": "2026-06-27T16:50:33.567Z",
+  "version": "v1.5.17",
+  "notes": "v1.5.17: 수동 설정의 '리스트에서 고르기' 모달 창에서 글씨가 위아래로 잘려 보이던 UI 레이아웃 버그 수정",
+  "pub_date": "2026-06-27T16:56:54.831Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3NMR1dYV1lPVS9ldkx3c2J0SjVHT1diK09tQnJHV3lFMyt4R2hER0dRRkg2b1E0UDV2aTdCUDQ3NUs1VzlWRzBZVjc4bXRwQ3Z5UlZacElIbC9VTmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc5MDI2CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xNl94NjQtc2V0dXAuZXhlCkJEOUp3ZFFXSlRYYVlWNzJsSVN4L1ltOWRQSDMzUGt2b0Y5MDllaHcrZnhTc0hXRDdHS05MWWZHWjN0cG9xRFgzVUJYdjA5RSt3YUdiOGhhT3pBQ0F3PT0K",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.16/POE2_AutoFilter_1.5.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2pWRlpYUlNUeW1Ybjd3N1JjNXRiM1B1dTUzM3JQR014Qkg2Tm9lM1d3N3h5REpxRmVVa1pEZkVlOExIampkU0sydlpsZ3o5cHl4b0R1UldncTI5WXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc5NDE0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xN194NjQtc2V0dXAuZXhlCmdGUzIybnA5UVVUNmpxZ1Izb1hETWdYdTRmR08zNFdqbit0dXRMV2R2TGltaDNsYkFDTjFCR2h1dUdyZmFPdUZRem95aXlBOG05Q1JtbzA0ZldZSkFBPT0K",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.17/POE2_AutoFilter_1.5.17_x64-setup.exe"
     }
   }
 }
