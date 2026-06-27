@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.7",
-  "notes": "v1.5.7: 디스코드 인증키 입력 시 공백/줄바꿈 문자열 자동 제거 처리 강화",
-  "pub_date": "2026-06-24T18:26:39.982Z",
+  "version": "v1.5.9",
+  "notes": "v1.5.9: 생명력/이속 등 옵션 필터링 POE2 문법 호환 대응 및 무기 베이스 등급 제한 누락 픽스",
+  "pub_date": "2026-06-27T14:47:10.616Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2lXb0ZLQWlmQnlxbDhwdDQ1cUtJT3llLzZWMnBRa3hKSmtzYnI3aFIxQ3crcVNRVllCbms4b09ueGw4VlBJaTZpaUJuY3FiMVdRdnBuaXl3bVZEUFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzI1NTk0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS43X3g2NC1zZXR1cC5leGUKYnNZeXljem8zSzhpRW1oMzBpazVQVkhQUFQrZ2h5UlY3ckRVZDJWblE1bHJxSEFDd2JtTXp4T1phQ2x0SGJXTzZkWjZFTnVsZ0JpNXZuWjIySXJOQXc9PQo=",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.7/POE2_AutoFilter_1.5.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL3JDaytHM2F1dlYyNkQyUmx0K3phZzN0ZmdSRTBjRllvaXRZWVZJbzNLQmVKL1pPZm0zTkFGWExZaTZlN3VlUkQxZ2lrcEs4QWlmcWh3NnI4WTdTcEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTcwOTk0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS45X3g2NC1zZXR1cC5leGUKenRzR25ZL2ltNGs4YlpCc3lmbnlmNFZaSVgvWXZ0RS9XVkpJaWN1Vi91ZzVSWW5oVTlkK0xUUlZzU0NDdmNaeUFTQXdnUGJwclF2eHYwUXNqT1p3Q2c9PQo=",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.9/POE2_AutoFilter_1.5.9_x64-setup.exe"
     }
   }
 }
