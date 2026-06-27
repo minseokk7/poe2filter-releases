@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.12",
-  "notes": "v1.5.12: 정식 버전에서 삭제된 무기/방어구 명칭(Expert/Advanced)으로 인한 등급 제한 작동 오류를 아이템 고유 드롭 레벨(DropLevel) 기준으로 전면 수정하여 완벽 대응",
-  "pub_date": "2026-06-27T15:20:29.393Z",
+  "version": "v1.5.14",
+  "notes": "v1.5.14: 수동 설정 엔드게임 탭 완벽 한글화 적용 및 '숨길 장비 / 보일 장비' 전용 프리셋 추가",
+  "pub_date": "2026-06-27T16:30:03.541Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2hZY25GRFpNOFNhYy9OYmtjVnJJSHpHNVZteGt3ejE0VFdTK2UzM3prVldFa0xFSnJZUVBuR1FsZkR4bGZYK2ZuKzJpZTRyWkdqV3NLazJ2Kys2dmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTczNjIwCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xMl94NjQtc2V0dXAuZXhlCnJjTXZBMlF3bWNxeitERU1wS2FRZ2dtODQvdFdQVTc1T0JxWXBFVGVrOW1qZSt5VC80NHYvbFlNU3dNZ0o3WGpJRTNtL2FYbzliOTVLWVg3SGVtUkRRPT0K",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.12/POE2_AutoFilter_1.5.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2tFOFZtU3hxNVd3N2JUdy8zOEhra2dmdjNJZkFUMUhmZjJtc0tIa2xJTm5WSkVDQ094WTA1VlRIVkNvcG15MEU3MGtzM2l2UjJrQzlNekFRUVFPdHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc3Nzk4CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xNF94NjQtc2V0dXAuZXhlClhYM1N4QXBmaHM4UUllckR5WkRJN0swV0JuaDlFeEtKUTdDcDJBWXFwWlJRNjJldUxrT2lacHZ2NDVSR3RScXJmNzU5aVkwNUdoWVgyZitDWWJPYkR3PT0K",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.14/POE2_AutoFilter_1.5.14_x64-setup.exe"
     }
   }
 }
