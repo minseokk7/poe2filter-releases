@@ -1,11 +1,11 @@
 {
-  "version": "v1.5.17",
-  "notes": "v1.5.17: 수동 설정의 '리스트에서 고르기' 모달 창에서 글씨가 위아래로 잘려 보이던 UI 레이아웃 버그 수정",
-  "pub_date": "2026-06-27T16:56:54.831Z",
+  "version": "v1.5.18",
+  "notes": "v1.5.18: 모달 창 레이아웃 추가 안정화 (컨테이너 오버플로우 제한)",
+  "pub_date": "2026-06-27T17:01:21.966Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2pWRlpYUlNUeW1Ybjd3N1JjNXRiM1B1dTUzM3JQR014Qkg2Tm9lM1d3N3h5REpxRmVVa1pEZkVlOExIampkU0sydlpsZ3o5cHl4b0R1UldncTI5WXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc5NDE0CWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xN194NjQtc2V0dXAuZXhlCmdGUzIybnA5UVVUNmpxZ1Izb1hETWdYdTRmR08zNFdqbit0dXRMV2R2TGltaDNsYkFDTjFCR2h1dUdyZmFPdUZRem95aXlBOG05Q1JtbzA0ZldZSkFBPT0K",
-      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.17/POE2_AutoFilter_1.5.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTJsbXZoVEJZL2xGZ2xiTVArMG9BWmRGcGx4NzlDNzdnRXFkNkVoak5oTnlGRENTWW5FcDU4NkN0WDlSYUxCK3ZRTDh0VHo0V1BaenIxdGJydTZGNC9JODlNNzlrZFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTc5NjgxCWZpbGU6UE9FMl9BdXRvRmlsdGVyXzEuNS4xOF94NjQtc2V0dXAuZXhlCjlJektjZWZlcUo4YWR0M3M3VlQ3MGl5RkdJL0pSSERVWHhlS044aG83MUpQYXJqU1E4a0k2dzNBQzk1Y0Y5TjcxTEFzemdnSmFMeGJoN1orL0ExUkJBPT0K",
+      "url": "https://github.com/minseokk7/poe2filter-releases/releases/download/v1.5.18/POE2_AutoFilter_1.5.18_x64-setup.exe"
     }
   }
 }
